@@ -2,5 +2,5 @@
 layout: slide 
 title: "welcome to our slide!" 
 ---
-Hello
+No - not hello
 Use the left arrow to go back
